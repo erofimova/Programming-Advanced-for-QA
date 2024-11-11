@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse Strings", "Progr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Text Processing", "Text Processing", "{070C74C1-12BD-454D-AC6D-9A018BF3AC6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Repeat Strings", "2. Repeat Strings\2. Repeat Strings.csproj", "{63958EB4-E4EF-4533-A58B-F321C5D1E209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{D9D79069-792C-4D54-BEE4-B21485C8DDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D79069-792C-4D54-BEE4-B21485C8DDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D79069-792C-4D54-BEE4-B21485C8DDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63958EB4-E4EF-4533-A58B-F321C5D1E209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63958EB4-E4EF-4533-A58B-F321C5D1E209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63958EB4-E4EF-4533-A58B-F321C5D1E209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63958EB4-E4EF-4533-A58B-F321C5D1E209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D9D79069-792C-4D54-BEE4-B21485C8DDC2} = {070C74C1-12BD-454D-AC6D-9A018BF3AC6D}
+		{63958EB4-E4EF-4533-A58B-F321C5D1E209} = {070C74C1-12BD-454D-AC6D-9A018BF3AC6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB85C566-9753-47A3-B73B-CAB6F504CEA4}
