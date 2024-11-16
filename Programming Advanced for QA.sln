@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regular Expressions", "Regu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Match Full Name", "1. Match Full Name\1. Match Full Name.csproj", "{9464FFA0-E11E-4E5D-9578-4A2C97B18CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Match Phone Number", "2. Match Phone Number\2. Match Phone Number.csproj", "{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{9464FFA0-E11E-4E5D-9578-4A2C97B18CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9464FFA0-E11E-4E5D-9578-4A2C97B18CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9464FFA0-E11E-4E5D-9578-4A2C97B18CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{9FE8041B-5AB8-489A-B0EF-80F7FF1B2247} = {070C74C1-12BD-454D-AC6D-9A018BF3AC6D}
 		{0FE7E138-B4FD-416B-B7B5-4D78F8D5AA2E} = {070C74C1-12BD-454D-AC6D-9A018BF3AC6D}
 		{9464FFA0-E11E-4E5D-9578-4A2C97B18CD4} = {049C21F3-FF89-4193-A5D2-30FE9A484145}
+		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A} = {049C21F3-FF89-4193-A5D2-30FE9A484145}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB85C566-9753-47A3-B73B-CAB6F504CEA4}
