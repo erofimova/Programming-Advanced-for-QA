@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. A Miner Task", "2. A Min
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Orders", "3. Orders\3. Orders.csproj", "{DE016B74-42BC-49DD-BF07-355FF37DCCDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. SoftUni Parking", "4. SoftUni Parking\4. SoftUni Parking.csproj", "{04264870-8762-4F9C-B5BC-B2E9DDDF9D01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{DE016B74-42BC-49DD-BF07-355FF37DCCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE016B74-42BC-49DD-BF07-355FF37DCCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE016B74-42BC-49DD-BF07-355FF37DCCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04264870-8762-4F9C-B5BC-B2E9DDDF9D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04264870-8762-4F9C-B5BC-B2E9DDDF9D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04264870-8762-4F9C-B5BC-B2E9DDDF9D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04264870-8762-4F9C-B5BC-B2E9DDDF9D01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{0D75BD14-4231-4324-9956-B573A45D2937} = {D28DE9A7-8737-403D-81CF-87DCC83E2259}
 		{92F2EE9C-5AD8-4A7F-8181-38FB6D6AB985} = {D28DE9A7-8737-403D-81CF-87DCC83E2259}
 		{DE016B74-42BC-49DD-BF07-355FF37DCCDA} = {D28DE9A7-8737-403D-81CF-87DCC83E2259}
+		{04264870-8762-4F9C-B5BC-B2E9DDDF9D01} = {D28DE9A7-8737-403D-81CF-87DCC83E2259}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB85C566-9753-47A3-B73B-CAB6F504CEA4}
