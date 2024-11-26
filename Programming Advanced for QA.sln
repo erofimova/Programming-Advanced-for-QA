@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionaries, Lambda and LI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Real Numbers", "1. Count Real Numbers\1. Count Real Numbers.csproj", "{0E21FD4D-C0EE-41AE-B842-2A0479496A3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. OddOccurrences", "2. OddOccurrences\2. OddOccurrences.csproj", "{78DCAF3B-CF99-43F0-A6CF-13701DE10B14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0E21FD4D-C0EE-41AE-B842-2A0479496A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E21FD4D-C0EE-41AE-B842-2A0479496A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E21FD4D-C0EE-41AE-B842-2A0479496A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DCAF3B-CF99-43F0-A6CF-13701DE10B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DCAF3B-CF99-43F0-A6CF-13701DE10B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DCAF3B-CF99-43F0-A6CF-13701DE10B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DCAF3B-CF99-43F0-A6CF-13701DE10B14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{0B76F619-8C04-49FD-B2E9-1EC4EA06AA5A} = {049C21F3-FF89-4193-A5D2-30FE9A484145}
 		{5A4637A7-6650-4C12-8CDB-F3282D97B911} = {049C21F3-FF89-4193-A5D2-30FE9A484145}
 		{0E21FD4D-C0EE-41AE-B842-2A0479496A3F} = {BCF726BE-EE93-445B-84E2-D393653A0CC8}
+		{78DCAF3B-CF99-43F0-A6CF-13701DE10B14} = {BCF726BE-EE93-445B-84E2-D393653A0CC8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CB85C566-9753-47A3-B73B-CAB6F504CEA4}
